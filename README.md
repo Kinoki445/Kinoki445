@@ -24,8 +24,9 @@
 
 ## 📊 GitHub Stats
 
-<a href="http://www.github.com/bubnov-alexander"><img src="https://github-readme-stats.vercel.app/api?username=bubnov-alexander&show_icons=true&count_private=true&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true" alt="bubnov-alexander's GitHub stats" /></a>
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=bubnov-alexander&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=bubnov-alexander&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=bubnov-alexander&radius=16&theme=react&area=true&order=5" height="300" alt="activity-graph graph"  />
+</div>
 
-<a href="http://www.github.com/bubnov-alexander"><img src="https://github-readme-streak-stats.herokuapp.com/?user=bubnov-alexander&stroke=ffffff&background=181824&ring=ec4899&fire=ec4899&currStreakNum=ffffff&currStreakLabel=ec4899&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
-
-<a href="https://github.com/bubnov-alexander" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bubnov-alexander&langs_count=10&title_color=ec4899&text_color=ffffff&icon_color=a855f7&bg_color=181824&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
